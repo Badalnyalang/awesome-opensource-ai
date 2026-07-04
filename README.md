@@ -388,6 +388,7 @@ Good entries should have a clear reason to exist. They should help people build,
 - [Agent-Native](https://github.com/BuilderIO/agent-native) - TypeScript-first framework for building agent-first applications featuring shared database state, real-time multiplayer editing, and action-driven tools. ISC licensed. ![GitHub stars](https://img.shields.io/github/stars/BuilderIO/agent-native?style=social)
 - [rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs) that programmatically execute sub-LM calls inside isolated code sandboxes. ![GitHub stars](https://img.shields.io/github/stars/alexzhang13/rlm?style=social)
 - [Page Agent](https://github.com/alibaba/page-agent) - JavaScript-native, in-page GUI agent framework for controlling web interfaces with natural language without screenshots or external browser automation. MIT licensed. ![GitHub stars](https://img.shields.io/github/stars/alibaba/page-agent?style=social)
+- [NE-Agent](https://github.com/MWirelabs/ne-agent) - Open-source offline AI agent for low-resource and indigenous languages, combining automatic language identification, multilingual retrieval (RAG), speech recognition, translation, and local LLM inference. ![GitHub stars](https://img.shields.io/github/stars/MWirelabs/ne-agent?style=social)
 
 #### Multi-Agent Orchestration
 
